@@ -4,3 +4,6 @@
 .secondary-color{
     color: rgba(18, 18, 18, 0.60);
 }
+.icon-color{
+    background-color:rgba(18, 18, 18, 0.10) ;
+}
